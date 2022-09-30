@@ -58,12 +58,13 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* Content for all 3 sections on html are defined here */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+/* css used to determined position of img in regards to paragraph */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -134,7 +135,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* Bellow are classes set in html file. */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
